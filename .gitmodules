@@ -7,3 +7,6 @@
 [submodule "_third-party-forked/jquery-ui"]
 	path = _third-party-forked/jquery-ui
 	url = git@github.com:bcullman/jquery-ui.git
+[submodule "_third-party/jquery-ui"]
+	path = _third-party/jquery-ui
+	url = git@github.com:jquery/jquery-ui.git
