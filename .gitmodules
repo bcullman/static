@@ -1,4 +1,4 @@
-[submodule "vendor-forked/bootstrap"]
+[submodule "_third-party-forked/bootstrap"]
 	path = _third-party-forked/bootstrap
 	url = git@github.com:bcullman/bootstrap.git
 [submodule "_third-party-forked/jquery-ui-bootstrap"]
