@@ -6,4 +6,4 @@
 	url = git@github.com:bcullman/jquery-ui-bootstrap.git
 [submodule "_third-party-forked/jquery-ui"]
 	path = _third-party-forked/jquery-ui
-	url = git@github.com:jquery/jquery-ui.git
+	url = git@github.com:bcullman/jquery-ui.git
