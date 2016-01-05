@@ -1,12 +1,12 @@
-[submodule "_third-party-forked/bootstrap"]
-	path = _third-party-forked/bootstrap
+[submodule "src/_third-party-forked/bootstrap"]
+	path = src/_third-party-forked/bootstrap
 	url = git@github.com:bcullman/bootstrap.git
-[submodule "_third-party-forked/jquery-ui-bootstrap"]
-	path = _third-party-forked/jquery-ui-bootstrap
+[submodule "src/_third-party-forked/jquery-ui-bootstrap"]
+	path = src/_third-party-forked/jquery-ui-bootstrap
 	url = git@github.com:bcullman/jquery-ui-bootstrap.git
-[submodule "_third-party-forked/jquery-ui"]
-	path = _third-party-forked/jquery-ui
+[submodule "src/_third-party-forked/jquery-ui"]
+	path = src/_third-party-forked/jquery-ui
 	url = git@github.com:bcullman/jquery-ui.git
-[submodule "_third-party/jquery-ui"]
-	path = _third-party/jquery-ui
+[submodule "src/_third-party/jquery-ui"]
+	path = src/_third-party/jquery-ui
 	url = git@github.com:jquery/jquery-ui.git
